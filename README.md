@@ -2,7 +2,7 @@
 * python -m venv test_venv
 * make setup
 * make pipeline
-* make 
+* make dashboard
 
 
 ### Database Schema
